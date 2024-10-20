@@ -1,1 +1,1 @@
-# javascript-
+# javascript file for all codes
